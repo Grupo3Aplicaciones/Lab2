@@ -1,0 +1,36 @@
+package com.example.amst3;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.FragmentActivity;
+
+import android.os.Bundle;
+
+import com.google.android.gms.maps.CameraUpdateFactory;
+import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.OnMapReadyCallback;
+import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.MarkerOptions;
+
+public class map_activity extends FragmentActivity implements OnMapReadyCallback {
+GoogleMap map;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_map_activity);
+
+        SupportMapFragment mapFragment = (SupportMapFragment)getSupportFragmentManager()
+                .findFragmentById(R.id.map);
+        mapFragment.getMapAsync(this);
+    }
+
+    @Override
+    public void onMapReady(GoogleMap googleMap) {
+        map= googleMap;
+
+        LatLng Orquideas=new LatLng(-2.065264, -79.904152);
+        map.addMarker(new MarkerOptions().position(Orquideas).title("Orquideas"));
+        map.moveCamera(CameraUpdateFactory.newLatLng(Orquideas));
+    }
+}

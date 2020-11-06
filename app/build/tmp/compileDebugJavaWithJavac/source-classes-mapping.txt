@@ -1,0 +1,6 @@
+com/example/amst3/MainActivity.java
+ com.example.amst3.MainActivity
+com/example/amst3/map_activity.java
+ com.example.amst3.map_activity
+com/example/amst3/BuildConfig.java
+ com.example.amst3.BuildConfig
