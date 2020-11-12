@@ -18,7 +18,7 @@ public class Graficos extends AppCompatActivity {
 
     LineChartView lineChartView;
     String[] axisData = {"L", "M", "M", "J", "V", "S", "D"};
-    int[] yAxisData = {15, 20, 25, 30, 35, 40, 45};
+    int[] yAxisData = {15, 20, 25, 25, 40, 35, 45};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

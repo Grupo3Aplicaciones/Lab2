@@ -6,13 +6,201 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/btn_video"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:onClick="graficos"
+                android:text="Video"/>
+
+            <Button
+                android:id="@+id/btn_calendar"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:onClick="graficos"
+                android:text="Calendario"/>
+
+            <Button
+                android:id="@+id/btn_map"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:text="Mapa"/>
+
+            <Button
+                android:id="@+id/btn_graph"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:onClick="graficos"
+                android:text="Gráfico"/>
+
+        </LinearLayout>
+
+
+        <!--
+    <LinearLayout
+        android:id="@+id/fabLayout1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:layout_marginRight="@dimen/standard_23"
+        android:padding="@dimen/standard_12"
+        android:clipToPadding="false"
+        app:layout_behavior="com.ajaysinghdewari.floatingactionbuttonmenu.activities.utils.MoveUpwardBehavior"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="@dimen/standard_23"
+        android:layout_gravity="bottom|end"
+        android:visibility="gone">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FabTitle1"/>
+
+
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/maps_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true"
+            android:tint="@android:color/white"
+            android:backgroundTint="@color/colorPrimary"
+            app:srcCompat="@drawable/ic_add"
+            tools:layout_editor_absoluteX="172dp"
+            tools:layout_editor_absoluteY="497dp"
+            tools:ignore="VectorDrawableCompat" />
+
+    </LinearLayout>
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/maps_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="24dp"
+            android:layout_marginBottom="24dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:tint="@android:color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:srcCompat="@drawable/ic_add"
+            android:layout_marginRight="24dp"
+            tools:ignore="VectorDrawableCompat" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/fabLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/standard_12"
+        android:clipToPadding="false"
+        android:layout_marginRight="@dimen/standard_23"
+        android:gravity="center_vertical"
+        app:layout_behavior="com.ajaysinghdewari.floatingactionbuttonmenu.activities.utils.MoveUpwardBehavior"
+        android:layout_marginBottom="@dimen/standard_23"
+        android:layout_gravity="bottom|end"
+        android:visibility="gone">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FabTitle2"/>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/edit_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:tint="@android:color/white"
+
+            app:srcCompat="@drawable/ic_pen"
+            android:visibility="invisible"
+            tools:ignore="VectorDrawableCompat" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/fabLayout3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/standard_12"
+        android:clipToPadding="false"
+        android:layout_marginRight="@dimen/standard_23"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="@dimen/standard_23"
+        app:layout_behavior="com.ajaysinghdewari.floatingactionbuttonmenu.activities.utils.MoveUpwardBehavior"
+        android:layout_gravity="bottom|end"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FabTitle3"/>
+
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/image_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:tint="@android:color/white"
+            app:layout_constraintBottom_toTopOf="@+id/edit_btn"
+            app:layout_constraintEnd_toEndOf="@+id/edit_btn"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/ic_image"
+            tools:ignore="VectorDrawableCompat" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/fab_margin"
+        android:gravity="center_vertical"
+        android:clipToPadding="false"
+        app:layout_behavior="com.ajaysinghdewari.floatingactionbuttonmenu.activities.utils.MoveUpwardBehavior"
+        android:padding="@dimen/standard_12"
+        android:layout_marginBottom="@dimen/fab_margin"
+        android:layout_gravity="bottom|end">
+
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:gravity="center_vertical"
+            app:srcCompat="@drawable/ic_add"
+            app:fabSize="normal"
+            tools:ignore="VectorDrawableCompat" />
+    </LinearLayout>
+-->
+    </RelativeLayout>
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+
+
+
+
+
+
