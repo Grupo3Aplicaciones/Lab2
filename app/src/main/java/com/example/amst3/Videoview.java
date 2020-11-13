@@ -38,7 +38,6 @@ public class Videoview extends YouTubeBaseActivity implements YouTubePlayer.OnIn
 
             Toast.makeText(getApplication(),error,Toast.LENGTH_LONG).show();
         }
-
     }
 
     protected void onActivityResult(int requestCode, int resultcode, Intent data) {
@@ -77,4 +76,3 @@ public class Videoview extends YouTubeBaseActivity implements YouTubePlayer.OnIn
 
     }
 }
-
