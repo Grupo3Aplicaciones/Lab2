@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Lab2.iml" filepath="$PROJECT_DIR$/Lab2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lab2.iml" filepath="$PROJECT_DIR$/.idea/modules/Lab2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hellocharts-library-1.5.8/Lab2.hellocharts-library-1.5.8.iml" filepath="$PROJECT_DIR$/.idea/modules/hellocharts-library-1.5.8/Lab2.hellocharts-library-1.5.8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hellocharts-library-1.5.8/hellocharts-library-1.5.8.iml" filepath="$PROJECT_DIR$/hellocharts-library-1.5.8/hellocharts-library-1.5.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitHub.Lab2.iml" filepath="$PROJECT_DIR$/.idea/modules/GitHub.Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hellocharts-library-1.5.8/GitHub.Lab2.hellocharts-library-1.5.8.iml" filepath="$PROJECT_DIR$/.idea/modules/hellocharts-library-1.5.8/GitHub.Lab2.hellocharts-library-1.5.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lab2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lab2.app.iml" />
     </modules>
   </component>
 </project>
