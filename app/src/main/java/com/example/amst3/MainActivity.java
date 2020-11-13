@@ -88,6 +88,17 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
 
     }
+
+    public void videos(View view) {
+        Intent intent = new Intent(this, Youtube.class);
+        startActivity(intent);
+
+    }
+    public void mapas(View view) {
+        Intent intent = new Intent(this, ActivityMap.class);
+        startActivity(intent);
+
+    }
     /*
 
 

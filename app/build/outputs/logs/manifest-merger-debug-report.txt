@@ -1,16 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-37:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\106245c09a5a9df07de693f073cbd7ae\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\a6714f63f327b7f2dd4943158b696ea2\AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.sundeepk:compact-calendar-view:3.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\d7830ab0491e74ed6c70a505f5898d33\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\f3ec3738daf15adb4ad3b24d68c0b766\AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.lecho:hellocharts-android:v1.5.8] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\5afbab6da9930865cb5d76fbe34d7df6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1bc8dfeda1fe31daa658b142c307cf45\AndroidManifest.xml:17:1-38:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\f78a577c2efba0996e5191982cee3ba0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\0eba73978ffe96b728e618a5680b1416\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1ab295b64cb12d41c70d13a95e0f4fd0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\553a18e792fe27b32b57bb369b9b0879\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\fec420c29a1d8b3d90b86255e7fd0f25\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\6295f13d3ee3ba48fa71bb648a3755fb\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\04ad3c8b43124befa6b3d5e882027b4d\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\50ac0adb72e45e04c839d2b9987dae71\AndroidManifest.xml:17:1-22:12
@@ -34,29 +38,51 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Jhonston\.gra
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\5aa49fab5c79b9ab794386a176c79110\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1ca50b083041df3af1c55248826d1069\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\6744b5292075d3aef3c46b8b5678cdda\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-37:12
 	package
 		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml
 		INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml
-		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-37:12
 		INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml
-		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:1-37:12
 		INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1bc8dfeda1fe31daa658b142c307cf45\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1bc8dfeda1fe31daa658b142c307cf45\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:7:22-78
 application
-ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:5:5-22:19
+ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:10:5-35:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\106245c09a5a9df07de693f073cbd7ae\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\106245c09a5a9df07de693f073cbd7ae\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\a6714f63f327b7f2dd4943158b696ea2\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\a6714f63f327b7f2dd4943158b696ea2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1bc8dfeda1fe31daa658b142c307cf45\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1bc8dfeda1fe31daa658b142c307cf45\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1ab295b64cb12d41c70d13a95e0f4fd0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1ab295b64cb12d41c70d13a95e0f4fd0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\553a18e792fe27b32b57bb369b9b0879\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\553a18e792fe27b32b57bb369b9b0879\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\fec420c29a1d8b3d90b86255e7fd0f25\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\fec420c29a1d8b3d90b86255e7fd0f25\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.3.1] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\e96c3e5ada8a47b471869987d98939b2\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.3.1] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\e96c3e5ada8a47b471869987d98939b2\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\fbbd8bcf1dadbc43d69d3454b1d3cc8c\AndroidManifest.xml:24:5-25:19
@@ -64,43 +90,57 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Jh
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\e96c3e5ada8a47b471869987d98939b2\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.amst3.ActivityMap
+ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:17:19-46
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:19:13-21:51
+	android:value
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:21:17-48
+	android:name
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:20:17-62
+activity#com.example.amst3.Youtube
+ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:24:9-45
+	android:name
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:24:19-42
 activity#com.example.amst3.Calendario
-ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:12:9-57
+ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:25:9-48
 	android:name
-		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:12:19-45
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:25:19-45
 activity#com.example.amst3.Bienvenidos
-ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:13:9-19:20
+ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:26:9-32:20
 	android:name
-		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:13:19-46
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:26:19-46
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:30:27-74
 activity#com.example.amst3.Graficos
-ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:20:9-46
+ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:33:9-46
 	android:name
-		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:20:19-43
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:33:19-43
 activity#com.example.amst3.MainActivity
-ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:21:9-50
+ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:34:9-50
 	android:name
-		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:21:19-47
+		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml:34:19-47
 uses-sdk
 INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml
@@ -115,10 +155,18 @@ MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Jhonston\.gradle\cache
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\f3ec3738daf15adb4ad3b24d68c0b766\AndroidManifest.xml:20:5-22:41
 MERGED from [com.github.lecho:hellocharts-android:v1.5.8] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\5afbab6da9930865cb5d76fbe34d7df6\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.lecho:hellocharts-android:v1.5.8] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\5afbab6da9930865cb5d76fbe34d7df6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1bc8dfeda1fe31daa658b142c307cf45\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1bc8dfeda1fe31daa658b142c307cf45\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\f78a577c2efba0996e5191982cee3ba0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\f78a577c2efba0996e5191982cee3ba0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\0eba73978ffe96b728e618a5680b1416\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\0eba73978ffe96b728e618a5680b1416\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1ab295b64cb12d41c70d13a95e0f4fd0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1ab295b64cb12d41c70d13a95e0f4fd0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\553a18e792fe27b32b57bb369b9b0879\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\553a18e792fe27b32b57bb369b9b0879\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\fec420c29a1d8b3d90b86255e7fd0f25\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\fec420c29a1d8b3d90b86255e7fd0f25\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\6295f13d3ee3ba48fa71bb648a3755fb\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\6295f13d3ee3ba48fa71bb648a3755fb\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\04ad3c8b43124befa6b3d5e882027b4d\AndroidManifest.xml:20:5-22:41
@@ -175,3 +223,33 @@ INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml
 		INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml
 		ADDED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml
 		INJECTED from D:\ESPOL\AppsMoviles\Lab2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1bc8dfeda1fe31daa658b142c307cf45\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1bc8dfeda1fe31daa658b142c307cf45\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1bc8dfeda1fe31daa658b142c307cf45\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1bc8dfeda1fe31daa658b142c307cf45\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1bc8dfeda1fe31daa658b142c307cf45\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1bc8dfeda1fe31daa658b142c307cf45\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1bc8dfeda1fe31daa658b142c307cf45\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1bc8dfeda1fe31daa658b142c307cf45\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1ab295b64cb12d41c70d13a95e0f4fd0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1ab295b64cb12d41c70d13a95e0f4fd0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1ab295b64cb12d41c70d13a95e0f4fd0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\1ab295b64cb12d41c70d13a95e0f4fd0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\fec420c29a1d8b3d90b86255e7fd0f25\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\fec420c29a1d8b3d90b86255e7fd0f25\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jhonston\.gradle\caches\transforms-2\files-2.1\fec420c29a1d8b3d90b86255e7fd0f25\AndroidManifest.xml:24:13-58
