@@ -1,0 +1,4 @@
+#Thu Nov 12 09:38:56 COT 2020
+base.0=D\:\\ESPOL\\AppsMoviles\\Lab2\\AMST3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
