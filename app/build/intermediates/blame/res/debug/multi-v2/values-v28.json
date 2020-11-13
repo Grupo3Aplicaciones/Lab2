@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\ESPOL\\AppsMoviles\\Lab2\\AMST3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "outputFile": "D:\\ESPOL\\AppsMoviles\\Lab2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Jhonston\\.gradle\\caches\\transforms-2\\files-2.1\\a6714f63f327b7f2dd4943158b696ea2\\res\\values-v28\\values-v28.xml",

@@ -28,7 +28,7 @@
                 android:id="@+id/btn_calendar"
                 android:layout_width="300dp"
                 android:layout_height="50dp"
-                android:onClick="graficos"
+                android:onClick="calendarios"
                 android:text="Calendario"/>
 
             <Button
